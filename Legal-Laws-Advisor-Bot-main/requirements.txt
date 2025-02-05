@@ -17,3 +17,6 @@ pyttsx3
 pandas
 reportlab
 letter
+
+sudo apt-get update
+sudo apt-get install espeak

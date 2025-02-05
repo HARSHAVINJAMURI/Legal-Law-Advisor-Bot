@@ -1,0 +1,14 @@
+# langchain
+# pinecone-client
+# langchain_pinecone
+# openai
+# faiss-gpu==1.7.2
+# langchain-community
+# langchain-openai
+
+pymupdf
+sentence-transformers
+pypdf
+ctransformers
+python-dotenv
+streamlit

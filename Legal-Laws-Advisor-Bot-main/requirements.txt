@@ -13,3 +13,4 @@ pypdf
 ctransformers
 python-dotenv
 streamlit
+pyttsx3

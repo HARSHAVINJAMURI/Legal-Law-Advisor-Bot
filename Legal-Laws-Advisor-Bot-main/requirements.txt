@@ -6,6 +6,7 @@
 # langchain-community
 # langchain-openai
 
+speech_recognition
 pymupdf
 sentence-transformers
 pypdf
